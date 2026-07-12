@@ -10,17 +10,13 @@ This project contains two interactive Tableau dashboards built using an ESG & Fi
 
 ## Executive Financial Performance Dashboard
 
-```md
 ![Executive Financial Dashboard](Executive-Finacial-Performance-dashboard1.png)
-```
 
 ---
 
 ## ESG & Sustainability Analytics Dashboard
 
-```md
 ![ESG Dashboard](ESG-&-Sustainability-Analytics-Dashboard2.png)
-```
 
 ---
 
